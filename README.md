@@ -7,7 +7,7 @@ This repository is source code for the paper "Galaxy Morphological Classificatio
 
 ## Citation
 ```
-@article{wei2022gm,
+@article{wei2023dcn,
    author = {Wei, Shoulin and Lu, Wei and Dai, Wei and Liang, Bo and Zhang, Zhijian and Zhang, Xiaoli },
    title = {Galaxy Morphological Classification of the Legacy Surveys with Deformable Convolutional Neural Networks},
    journal = {under review},
