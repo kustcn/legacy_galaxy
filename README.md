@@ -3,7 +3,7 @@
 This repository is source code for the paper "Galaxy Morphological Classification of the Legacy Surveys with Deformable Convolutional Neural Networks" under review.
 ![architecture](./images/architecture.png)
 ## Catalogue
-[Baidu NetDisk](https://pan.baidu.com/s/1wk-mj7jABl6sZvCYZ0Ki8w?pwd=dvnd)
+[Baidu NetDisk](https://pan.baidu.com/s/13OycRXh9tLClmPG8L4bSqg?pwd=fp3q)
 
 ## Citation
 ```
