@@ -10,13 +10,13 @@ This repository is source code for the paper "Galaxy Morphological Classificatio
 @article{wei2023dcn,
    author = {Wei, Shoulin and Lu, Wei and Dai, Wei and Liang, Bo and Zhang, Zhijian and Zhang, Xiaoli },
    title = {Galaxy Morphological Classification of the Legacy Surveys with Deformable Convolutional Neural Networks},
-   journal = {under review},
+   journal = {The Astronomical Journal},
    volume = {XXX},
    number = {XXX},
    pages = {XXX},
    ISSN = {XXX-XXX-XXX},
    DOI = {XXX/XXX},
-   url = {https://dx.doi.org/XXX/XXX},
+   url = {https://doi.org/XXX/XXX},
    year = {2023},
    type = {Journal Article}
 }
