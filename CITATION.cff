@@ -1,0 +1,22 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Wei
+  given-names: Shoulin
+- family-names: Lu
+  given-names: Wei
+- family-names: Dai
+  given-names: Wei
+- family-names: Liang
+  given-names: Bo
+- family-names: Longfei
+  given-names: Hao
+- family-names: Zhijian
+  given-names: Zhang
+- family-names: Xiaoli
+  given-names: Zhang
+
+orcid: https://orcid.org/0009-0008-7783-945X
+title: Galaxy Morphological Classification of the Legacy Surveys with Deformable Convolutional Neural Networks
+version: v1.0.0
+date-released: 2023-10-14
