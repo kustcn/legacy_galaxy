@@ -19,5 +19,6 @@ This repository is source code for the paper "Galaxy Morphological Classificatio
    url = {https://doi.org/XXX/XXX},
    year = {2023},
    type = {Journal Article}
-}
+}zenodo.10002367
+
 ```
