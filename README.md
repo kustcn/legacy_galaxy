@@ -10,17 +10,16 @@ This repository also be included in [zenodo](https://doi.org/10.5281/zenodo.1000
 [Figshare](https://doi.org/10.6084/m9.figshare.24305623.v5)
 ## Citation
 ```
-@article{wei2023dcn,
-   author = {Wei, Shoulin and Lu, Wei and Dai, Wei and Liang, Bo and Longfei, Hao and Zhang, Zhijian and Zhang, Xiaoli },
+@article{wei2024morph,
+   author = {Wei, Shoulin and Lu, Wei and Dai, Wei and Liang, Bo and Hao, Longfei and Zhang, Zhijian and Zhang, Xiaoli},
    title = {Galaxy Morphological Classification of the Legacy Surveys with Deformable Convolutional Neural Networks},
    journal = {The Astronomical Journal},
-   volume = {XXX},1
-   number = {XXX},
-   pages = {XXX},
-   ISSN = {XXX-XXX-XXX},
-   DOI = {xxx},
-   url = {https://doi.org/xxx},
-   year = {2023},
+   volume = {167},
+   number = {1},
+   pages = {29},
+   DOI = {10.3847/1538-3881/ad10ab},
+   url = {https://dx.doi.org/10.3847/1538-3881/ad10ab},
+   year = {2024},
    type = {Journal Article}
 }
 ```
