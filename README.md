@@ -1,6 +1,8 @@
 ## Introduction
 
-This repository is source code for the paper "Galaxy Morphological Classification of the Legacy Surveys with Deformable Convolutional Neural Networks" under review.
+This repository is source code for the paper "Galaxy Morphological Classification of the Legacy Surveys with Deformable Convolutional Neural Networks".
+
+The paper is available at [PDF](https://iopscience.iop.org/article/10.3847/1538-3881/ad10ab/pdf), [HTML](https://iopscience.iop.org/article/10.3847/1538-3881/ad10ab).
 
 This repository also be included in [zenodo](https://doi.org/10.5281/zenodo.10002366).
 
